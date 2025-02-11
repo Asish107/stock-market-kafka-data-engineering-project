@@ -12,7 +12,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 Architecture
 
-
+![image](https://github.com/user-attachments/assets/05ad63c4-5d52-4dfe-a81e-d3b2f51c61b1)
 Technology Used
 Programming Language - Python
 Amazon Web Service (AWS)
